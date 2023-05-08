@@ -44,7 +44,9 @@ And you may access the devices in your lab as follows:
 | vBond | 10.10.20.80 | 22| SSH. | admin | C1sco12345 |
 | vBond | 10.10.20.80 | 22| SSH. | admin | C1sco12345 |
 
-
+| Component | IP Address | Port | Method | Username | Password |
+| --- | ----- |------ |------------- |----- |--- |
+| vBond | 10.10.20.80 | 22| SSH. | admin | C1sco12345 |
 
 # Additinal Information
   ## IOS XR Appmgr commands: <a name="apmgr_cmds"></a>
